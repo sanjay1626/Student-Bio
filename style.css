@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body { background-color:#efeee7; 
     font-family:"Georgia", Times New Roman, Times, serif;
     color:#333333;
@@ -66,3 +67,71 @@ h2{font-size: 24px;
         
     
 
+=======
+body { background-color:#efeee7; 
+    font-family:"Georgia", Times New Roman, Times, serif;
+    color:#333333;
+    margin: 0;
+    padding: 0;
+    
+    }
+header{ background-color: #333333;
+}
+
+h1{color: #eee;
+font-size: 28px;
+text-align: center;
+}
+
+h2{font-size: 24px;
+}
+
+.container{
+    width: 1354px;
+    height: 500px;
+    margin: 10px 30px 20px 50px;
+    padding: 25px 10px 30px 20px;
+    border-style: solid;
+    border-width: 22px;
+    border-color: #113152;
+    
+
+}
+   
+.ahref {
+    color: tomato;
+}
+
+#link1{
+    color:#d21034;
+}
+    #main-bio{
+        float: left;
+        width: 50%;
+        margin-top: 0px;
+     
+        
+    
+    }
+    
+    #bio-image{
+        
+        float: left;
+        width: 200px;
+        height: 200px;
+        padding-right: 10px;
+        
+    }
+
+    #content-info{
+        float: left;
+        width: 30%;
+        margin-top: -60px ;
+        padding-left: 24px;
+    
+        }
+        
+        
+    
+
+>>>>>>> 2755bbed7960f8cea01badbc9075ad8270898a2c
